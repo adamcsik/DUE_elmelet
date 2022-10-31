@@ -1,2 +1,2 @@
-print('Ez csak egy proba'
+print('Ez csak egy proba')
       
